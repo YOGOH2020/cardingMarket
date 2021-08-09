@@ -1042,3 +1042,6 @@ input {
     height: 640px;
   }
 }
+#form{
+  align-self: center;
+}
